@@ -1,0 +1,16 @@
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/manassesj/Documents/projects/esta/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/manassesj/Documents/projects/esta/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/manassesj/Documents/projects/esta/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/manassesj/Documents/projects/esta/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/manassesj/Documents/projects/esta/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/manassesj/Documents/projects/esta/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/manassesj/Documents/projects/esta/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/manassesj/Documents/projects/esta/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
